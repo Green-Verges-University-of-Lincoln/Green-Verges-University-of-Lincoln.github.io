@@ -2858,7 +2858,7 @@ input, select, textarea {
 					width: 7em;
 					height: 7em;
 				}
-				#header .center {
+				#header.center {
 					display: block;
 					margin-left: auto;
 					margin-right: auto;
